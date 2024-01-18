@@ -1,0 +1,1 @@
+# joumia_deals_front_validation
